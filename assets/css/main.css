@@ -46,6 +46,7 @@ input {
 	background: pink;
 	color: blueviolet;
 	margin-top: 0;
+	cursor: pointer;
 }
 
 .primer >img {
@@ -78,4 +79,8 @@ p {
 
 .texto {
 	margin-top: -150px;
+}
+.horizontal:hover {
+	background: green;
+	cursor: pointer;
 }
